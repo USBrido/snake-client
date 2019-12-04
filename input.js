@@ -1,6 +1,5 @@
 let connection; 
 
-
 const setupInput = function(conn) {
   connection = conn;
   function handleUserInput(data) {
